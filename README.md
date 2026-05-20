@@ -62,13 +62,13 @@ The recommendation system follows these steps:
 
 ```bash
 Movie-recommendation-system/
-│ 
 │
 ├── app.py
+├── requirements.txt
+├── README.md
 ├── movie-recommender-system.ipynb
 ├── movies.pkl
 ├── similarity.pkl
-├── README.md
 ```
 
 ---
