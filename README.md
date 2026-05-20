@@ -1,11 +1,13 @@
 # 🎬 Movie Recommendation System
 
-<p align="center">
-  <img src="screenshots/home.png" width="900"/>
-</p>
-
 An AI-powered **Content-Based Movie Recommendation System** built using **Machine Learning** and **Streamlit**.  
 The system recommends movies similar to a selected movie by analyzing movie metadata such as genres, keywords, cast, crew, and overview.
+
+
+
+## 📸 Application Preview
+<img width="1919" height="922" alt="home" src="https://github.com/user-attachments/assets/b1931bf1-2b5d-4d26-90ff-5d1e82fdbfec" />
+
 
 ---
 
@@ -60,9 +62,7 @@ The recommendation system follows these steps:
 
 ```bash
 Movie-recommendation-system/
-│
-├── screenshots/
-│   └── home.png
+│ 
 │
 ├── app.py
 ├── movie-recommender-system.ipynb
@@ -136,14 +136,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Application Preview
-
-<p align="center">
-  <img src="screenshots/home.png" width="900"/>
-</p>
 
 ---
 
